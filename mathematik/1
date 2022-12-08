@@ -1,0 +1,6 @@
+import matematik
+
+a = input("masuk kan a: ")
+b = input("masuk kan b: ")
+
+plus(a, b)
